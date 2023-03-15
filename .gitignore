@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/algo-unity/algo-unity/bin/Debug/net6.0
+/algo-unity/algo-unity/obj
+/algo-unity/.vs/algo-unity/v17
